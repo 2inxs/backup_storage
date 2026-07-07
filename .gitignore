@@ -1,0 +1,21 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Сборка (PyInstaller / AppImage)
+build/
+dist/
+AppDir/
+*.AppImage
+
+# Образы SD-карт и метаданные бэкапов
+*.img
+backups.json
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

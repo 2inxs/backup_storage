@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=SD Backup
+Comment=Дампы и восстановление образов SD-карт
+Exec=sd-backup
+Icon=sd-backup
+Categories=Utility;System;
+Terminal=false
+StartupNotify=true
